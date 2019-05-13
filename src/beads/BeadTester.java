@@ -8,7 +8,7 @@ package beads;
 
 /**
  *
- * @author Megha
+ *
  */
 public class BeadTester {
     public static void main(String[] args)
